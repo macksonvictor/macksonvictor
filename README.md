@@ -1,9 +1,7 @@
 # Mackson Victor
 
 <details open>
-<summary><strong>➱ Sobre mim</strong></summary>
-
-<br>
+<summary><h2>➱ Sobre mim</h2></summary>
 
 Estou documentando no GitHub minha evolução em Engenharia de IA por meio de projetos práticos em sistemas inteligentes, modelos de linguagem, robótica e engenharia aplicada.
 
@@ -14,7 +12,7 @@ Minha trajetória une software, IA e robótica com um objetivo claro: construir 
 ---
 
 <details>
-<summary><strong>✎ Formação e evolução</strong></summary>
+<summary><h2>✎ Formação e evolução</h2></summary>
 
 <br>
 
@@ -102,9 +100,7 @@ Minha trajetória une software, IA e robótica com um objetivo claro: construir 
 ---
 
 <details>
-<summary><strong>☑︎ Projetos principais</strong></summary>
-
-<br>
+<summary><h2>☑︎ Projetos principais</h2></summary>
 
 <details>
 <summary><strong>CHEVEL AI</strong></summary>
