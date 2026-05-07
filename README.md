@@ -1,11 +1,5 @@
 # Mackson Victor
 
-<p align="left">
-  <img src="https://img.shields.io/badge/AI%20Engineering-in%20progress-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Robotics-WIESEL--E-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CHEVEL%20AI-Experimental%20System-111111?style=for-the-badge" />
-</p>
-
 ## ➱ Sobre mim
 
 Estou documentando no GitHub minha evolução em Engenharia de IA por meio de projetos práticos em sistemas inteligentes, modelos de linguagem, robótica e engenharia aplicada.
@@ -19,7 +13,7 @@ Minha trajetória une software, IA e robótica com um objetivo claro: construir 
 ### Ciência da Computação — USP
 
 <details>
-<summary><strong>▸ Base técnica</strong></summary>
+<summary><strong>▸ Fundamentos e camadas técnicas</strong></summary>
 
 <br>
 
@@ -30,6 +24,12 @@ Minha trajetória une software, IA e robótica com um objetivo claro: construir 
 - **Andrew Ng ML/DL** — Machine Learning, Deep Learning e fundamentos matemáticos aplicados
 - **Git, GitHub e documentação técnica** — versionamento, organização e construção pública
 - **Estruturas de dados e algoritmos** — resolução de problemas e base para engenharia
+- **Machine Learning** — NumPy, Pandas, Matplotlib e Scikit-learn
+- **Deep Learning** — PyTorch, redes neurais e treinamento de modelos
+- **Visão Computacional** — percepção visual, imagens e modelos aplicados
+- **LLMs, RAG e agentes inteligentes** — linguagem, memória, busca semântica e execução
+- **MLOps e produção** — Docker, APIs, deploy, monitoramento e infraestrutura de IA
+- **Robótica e sistemas físicos de IA** — ROS 2, controle robótico, sensores e integração física
 
 </details>
 
@@ -46,25 +46,25 @@ Minha trajetória une software, IA e robótica com um objetivo claro: construir 
 </details>
 
 <details>
-<summary><strong>▸ Próximas camadas</strong></summary>
+<summary><strong>▸ Certificados técnicos</strong></summary>
 
 <br>
 
-- Machine Learning com NumPy, Pandas, Matplotlib e Scikit-learn
-- Deep Learning com PyTorch
-- Visão Computacional
-- LLMs, RAG e agentes inteligentes
-- MLOps, Docker, APIs e deploy em produção
-- ROS 2, controle robótico e sistemas físicos de IA
+- **CS50x — Harvard / edX** — em progresso
+- **Python for Everybody — Coursera** — em progresso
+- **Machine Learning Specialization — Andrew Ng / Coursera** — planejado
+- **Deep Learning Specialization — Andrew Ng / Coursera** — planejado
+- **Hugging Face Courses** — planejado
 
 </details>
 
 <details>
-<summary><strong>▸ Certificações</strong></summary>
+<summary><strong>▸ Olimpíadas e reconhecimentos</strong></summary>
 
 <br>
 
-- Em organização
+- **OBA — Olimpíada Brasileira de Astronomia e Astronáutica** — medalha de bronze na escola
+- **Mandacaru de Matemática 2024** — medalha de prata
 
 </details>
 
