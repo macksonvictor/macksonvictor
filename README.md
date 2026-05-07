@@ -56,11 +56,12 @@ Minha trajetória une software, IA e robótica com um objetivo claro: construir 
 
 <br>
 
-- **CS50x — Harvard / edX** — em progresso
-- **Python for Everybody — Coursera** — em progresso
-- **Machine Learning Specialization — Andrew Ng / Coursera** — planejado
-- **Deep Learning Specialization — Andrew Ng / Coursera** — planejado
-- **Hugging Face Courses** — planejado
+- **CS50x — Harvard / edX** — conclúido
+- **Python for Everybody — Coursera** — concluído
+- **Machine Learning Specialization — Andrew Ng / Coursera** — concluído
+- **Deep Learning Specialization — Andrew Ng / Coursera** — concluído
+- **Hugging Face Courses** — concluído
+- **Acess 2019, PowerPoint — CGD / Pic@arra Info** — concluído  
 
 </details>
 
