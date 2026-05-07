@@ -1,6 +1,6 @@
 # Mackson Victor
 
-<img src="./assets/Untitled%20file.gif" width="32" align="center" />Clique nas seções abaixo para expandir os detalhes.
+> <img src="./assets/Untitled%20file.gif" width="32" align="center" />Clique nas seções abaixo para expandir os detalhes.
 
 <details open>
 <summary><h2>➱ Sobre mim</h2></summary>
