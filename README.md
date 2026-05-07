@@ -131,20 +131,27 @@ Roadmap de robótica integrado à CHEVEL AI, focado em braços robóticos, contr
 </details>
 
 <details>
-<summary><strong>Nexo Finance</strong></summary>
+<summary><strong><a href="https://github.com/macksonvictor/nexo.finance">Nexo Finance</a></strong></summary>
 
 <br>
 
-Projeto de tecnologia financeira com aplicação já desenvolvida no GitHub, voltado para produto digital, experiência de usuário e sistemas aplicados ao mercado financeiro.
+Aplicação financeira já desenvolvida no GitHub, voltada para produto digital, experiência de usuário e sistemas aplicados ao mercado financeiro.
 
 </details>
 
 <details>
-<summary><strong>Dario AI</strong></summary>
+<summary><strong>Dário AI</strong></summary>
 
 <br>
 
-Projeto de IA em desenvolvimento dentro do ecossistema de sistemas inteligentes, ainda em estruturação técnica e conceitual.
+Tutor e avaliador cognitivo de revisão em tempo real, criado para impedir que o aluno confunda memorização com entendimento.
+
+**O que faz:**
+
+- Testa
+- Corrige
+- Exige clareza
+- Ajuda o aluno a revisar, explicar e apresentar conteúdos com precisão real
 
 </details>
 
@@ -153,15 +160,32 @@ Projeto de IA em desenvolvimento dentro do ecossistema de sistemas inteligentes,
 
 <br>
 
-Projeto de IA em desenvolvimento, parte do conjunto de experimentos e produtos inteligentes em construção.
+Aplicativo cognitivo de matemática com backend em Python, motor de dificuldade proporcional e adaptação baseada em tempo e acerto.
+
+**Direção técnica:**
+
+- Backend 100% Python
+- Motor de dificuldade proporcional
+- Adaptação por tempo e acerto
+- Interface limpa
+- Mascote reativo
+- Preparado para API, banco de dados e mobile
 
 </details>
 
 <details>
-<summary><strong>Zakh</strong></summary>
+<summary><strong>ZAKH</strong></summary>
 
 <br>
 
-Projeto em estruturação dentro do ecossistema de produtos e sistemas inteligentes.
+Sistema externo de execução pessoal projetado para cobrar planos definidos pelo próprio usuário, sem decidir por ele e sem aceitar desculpas.
+
+**Direção técnica:**
+
+- Bot privado no Telegram
+- Agendamento de mensagens
+- Cobrança objetiva de tarefas
+- Registro de falhas
+- Relatórios diários de execução
 
 </details>
