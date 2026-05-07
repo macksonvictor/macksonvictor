@@ -74,9 +74,15 @@ Minha trajetória une software, IA e robótica com um objetivo claro: construir 
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/NumPy-111111?style=flat-square&logo=numpy" />
+  <img src="https://img.shields.io/badge/Pandas-111111?style=flat-square&logo=pandas" />
+  <img src="https://img.shields.io/badge/Scikit--learn-111111?style=flat-square&logo=scikitlearn" />
   <img src="https://img.shields.io/badge/PyTorch-111111?style=flat-square&logo=pytorch" />
   <img src="https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi" />
   <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql" />
+  <img src="https://img.shields.io/badge/Redis-111111?style=flat-square&logo=redis" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-111111?style=flat-square&logo=githubactions" />
   <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github" />
   <img src="https://img.shields.io/badge/Hugging%20Face-111111?style=flat-square" />
   <img src="https://img.shields.io/badge/ROS%202-111111?style=flat-square" />
@@ -102,6 +108,7 @@ Sistema experimental de IA projetado para memória, voz, raciocínio, tomada de 
 - Processamento de intenções
 - Execução de ações
 - Integração com sistemas digitais e físicos
+- Integração com WIESEL-E como camada robótica/física
 
 </details>
 
@@ -120,5 +127,41 @@ Roadmap de robótica integrado à CHEVEL AI, focado em braços robóticos, contr
 - Sensores e atuadores
 - ROS 2
 - Integração entre IA, percepção e ação física
+
+</details>
+
+<details>
+<summary><strong>Nexo Finance</strong></summary>
+
+<br>
+
+Projeto de tecnologia financeira com aplicação já desenvolvida no GitHub, voltado para produto digital, experiência de usuário e sistemas aplicados ao mercado financeiro.
+
+</details>
+
+<details>
+<summary><strong>Dario AI</strong></summary>
+
+<br>
+
+Projeto de IA em desenvolvimento dentro do ecossistema de sistemas inteligentes, ainda em estruturação técnica e conceitual.
+
+</details>
+
+<details>
+<summary><strong>AI Bear</strong></summary>
+
+<br>
+
+Projeto de IA em desenvolvimento, parte do conjunto de experimentos e produtos inteligentes em construção.
+
+</details>
+
+<details>
+<summary><strong>Zakh</strong></summary>
+
+<br>
+
+Projeto em estruturação dentro do ecossistema de produtos e sistemas inteligentes.
 
 </details>
