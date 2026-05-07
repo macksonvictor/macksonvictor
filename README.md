@@ -2,7 +2,7 @@
 
 > <sup><img src="./assets/Untitled%20file.gif" width="32" align="center" /></sup> Clique nas seções abaixo para expandir os detalhes.
 
-<details open>
+<details>
 <summary><h2>➱ Sobre mim</h2></summary>
 
 Estou documentando no GitHub minha evolução em Engenharia de IA por meio de projetos práticos em sistemas inteligentes, modelos de linguagem, robótica e engenharia aplicada.
@@ -13,7 +13,7 @@ Minha trajetória une software, IA e robótica com um objetivo claro: construir 
 
 ---
 
-<details open>
+<details>
 <summary><h2>✎ Formação e evolução</h2></summary>
 
 <br>
