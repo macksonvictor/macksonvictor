@@ -70,7 +70,7 @@ Minha trajetória une software, IA e robótica com um objetivo claro: construir 
 
 <br>
 
-- **OBA — Olimpíada Brasileira de Astronomia e Astronáutica** — medalha de bronze na escola
+- **OBA — Olimpíada Brasileira de Astronomia e Astronáutica** — medalha de bronze
 - **Mandacaru de Matemática 2024** — medalha de prata
 
 </details>
