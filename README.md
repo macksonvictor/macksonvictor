@@ -1,79 +1,79 @@
 # Mackson Victor
 
-> <sup><img src="./assets/Untitled%20file.gif" width="32" align="center" /></sup> Clique nas seções abaixo para expandir os detalhes.
+> <sup><img src="./assets/Untitled%20file.gif" width="32" align="center" /></sup> Click the sections below to expand details.
 
 <details>
-<summary><h2>➱ Sobre mim</h2></summary>
+<summary><h2>➱ About me</h2></summary>
 
-Estou documentando no GitHub minha evolução em Engenharia de IA por meio de projetos práticos em sistemas inteligentes, modelos de linguagem, robótica e engenharia aplicada.
+I'm documenting my evolution in AI Engineering on GitHub through practical projects in intelligent systems, language models, robotics, and applied engineering.
 
-Minha trajetória une software, IA e robótica com um objetivo claro: construir sistemas capazes de perceber, raciocinar, lembrar e agir.
+My journey combines software, AI, and robotics with a clear goal: building systems capable of perceiving, reasoning, remembering, and acting.
 
 </details>
 
 ---
 
 <details>
-<summary><h2>✎ Formação e evolução</h2></summary>
+<summary><h2>✎ Education and evolution</h2></summary>
 
 <br>
 
-### Ciência da Computação — USP
+### Computer Science — USP
 
 <details>
-<summary><strong>▸ Fundamentos e camadas técnicas</strong></summary>
+<summary><strong>▸ Foundations and technical layers</strong></summary>
 
 <br>
 
-- **Python for Everybody** — fundamentos de programação, lógica e Python
-- **CS50x — Harvard** — ciência da computação, algoritmos e pensamento computacional
-- **Fast.ai** — Deep Learning prático e construção de modelos reais
-- **Hugging Face Courses** — Transformers, NLP, LLMs e ecossistema de modelos abertos
-- **Andrew Ng ML/DL** — Machine Learning, Deep Learning e fundamentos matemáticos aplicados
-- **Git, GitHub e documentação técnica** — versionamento, organização e construção pública
-- **Estruturas de dados e algoritmos** — resolução de problemas e base para engenharia
-- **Machine Learning** — NumPy, Pandas, Matplotlib e Scikit-learn
-- **Deep Learning** — PyTorch, redes neurais e treinamento de modelos
-- **Visão Computacional** — percepção visual, imagens e modelos aplicados
-- **LLMs, RAG e agentes inteligentes** — linguagem, memória, busca semântica e execução
-- **MLOps e produção** — Docker, APIs, deploy, monitoramento e infraestrutura de IA
-- **Robótica e sistemas físicos de IA** — ROS 2, controle robótico, sensores e integração física
+- **Python for Everybody** — programming fundamentals, logic and Python
+- **CS50x — Harvard** — computer science, algorithms and computational thinking
+- **Fast.ai** — practical Deep Learning and building real models
+- **Hugging Face Courses** — Transformers, NLP, LLMs and open model ecosystem
+- **Andrew Ng ML/DL** — Machine Learning, Deep Learning and applied mathematical foundations
+- **Git, GitHub and technical documentation** — versioning, organization and public building
+- **Data structures and algorithms** — problem solving and engineering foundations
+- **Machine Learning** — NumPy, Pandas, Matplotlib and Scikit-learn
+- **Deep Learning** — PyTorch, neural networks and model training
+- **Computer Vision** — visual perception, images and applied models
+- **LLMs, RAG and intelligent agents** — language, memory, semantic search and execution
+- **MLOps and production** — Docker, APIs, deployment, monitoring and AI infrastructure
+- **Robotics and physical AI systems** — ROS 2, robotic control, sensors and physical integration
 
 </details>
 
 <details>
-<summary><strong>▸ Livros e referências</strong></summary>
+<summary><strong>▸ Books and references</strong></summary>
 
 <br>
 
-- **Automate the Boring Stuff with Python** — automação prática e scripts úteis
-- **Fluent Python** — Python avançado e escrita de código profissional
-- **Hands-On Machine Learning** — Machine Learning aplicado com projetos reais
-- **Designing Data-Intensive Applications** — sistemas distribuídos, dados e arquitetura de software
+- **Automate the Boring Stuff with Python** — practical automation and useful scripts
+- **Fluent Python** — advanced Python and professional code writing
+- **Hands-On Machine Learning** — applied Machine Learning with real projects
+- **Designing Data-Intensive Applications** — distributed systems, data and software architecture
 
 </details>
 
 <details>
-<summary><strong>▸ Certificados técnicos</strong></summary>
+<summary><strong>▸ Technical certificates</strong></summary>
 
 <br>
 
-- **CS50x — Harvard / edX** — conclúido
-- **Python for Everybody — Coursera** — concluído
-- **Machine Learning Specialization — Andrew Ng / Coursera** — concluído
-- **Deep Learning Specialization — Andrew Ng / Coursera** — concluído
-- **Hugging Face Courses** — concluído
-- **Acess 2019, PowerPoint — CGD / Pic@arra Info** — concluído  
+- **CS50x — Harvard / edX** — completed
+- **Python for Everybody — Coursera** — completed
+- **Machine Learning Specialization — Andrew Ng / Coursera** — completed
+- **Deep Learning Specialization — Andrew Ng / Coursera** — completed
+- **Hugging Face Courses** — completed
+- **Access 2019, PowerPoint — CGD / Pic@arra Info** — completed
 
 </details>
 
 <details>
-<summary><strong>▸ Olimpíadas e reconhecimentos</strong></summary>
+<summary><strong>▸ Olympiads and achievements</strong></summary>
 
 <br>
 
-- **OBA — Olimpíada Brasileira de Astronomia e Astronáutica** — medalha de bronze
-- **Mandacaru de Matemática 2024** — medalha de prata
+- **OBA — Brazilian Astronomy and Astronautics Olympiad** — bronze medal
+- **Mandacaru de Matemática 2024** — silver medal
 
 </details>
 
@@ -82,7 +82,7 @@ Minha trajetória une software, IA e robótica com um objetivo claro: construir 
 ---
 
 <details>
-<summary><h2>⚒︎ Ferramentas e tecnologias</h2></summary>
+<summary><h2>⚒︎ Tools and technologies</h2></summary>
 
 <br>
 
@@ -108,24 +108,24 @@ Minha trajetória une software, IA e robótica com um objetivo claro: construir 
 ---
 
 <details>
-<summary><h2>☑︎ Projetos principais</h2></summary>
+<summary><h2>☑︎ Main projects</h2></summary>
 
 <details>
 <summary><strong>CHEVEL AI</strong></summary>
 
 <br>
 
-Sistema experimental de IA projetado para memória, voz, raciocínio, tomada de decisão e execução de ações.
+Experimental AI system designed for memory, voice, reasoning, decision-making, and action execution.
 
-**Direção técnica:**
+**Technical direction:**
 
-- Memória persistente
-- Modelos de linguagem locais
-- Interface de voz
-- Processamento de intenções
-- Execução de ações
-- Integração com sistemas digitais e físicos
-- Integração com WIESEL-E como camada robótica/física
+- Persistent memory
+- Local language models
+- Voice interface
+- Intent processing
+- Action execution
+- Integration with digital and physical systems
+- Integration with WIESEL-E as the robotic/physical layer
 
 </details>
 
@@ -134,16 +134,16 @@ Sistema experimental de IA projetado para memória, voz, raciocínio, tomada de 
 
 <br>
 
-Sistema robótico integrado à CHEVEL AI, focado em estrutura braquial robótica, controle inteligente, visão computacional e interação futura com sistemas físicos de IA.
+Robotic system integrated with CHEVEL AI, focused on robotic brachial structure, intelligent control, computer vision, and future interaction with physical AI systems.
 
-**Direção técnica:**
+**Technical direction:**
 
-- Braços robóticos
-- Controle inteligente
-- Visão computacional
-- Sensores e atuadores
+- Robotic arms
+- Intelligent control
+- Computer vision
+- Sensors and actuators
 - ROS 2
-- Integração entre IA, percepção e ação física
+- Integration between AI, perception, and physical action
 
 </details>
 
@@ -152,7 +152,7 @@ Sistema robótico integrado à CHEVEL AI, focado em estrutura braquial robótica
 
 <br>
 
-Aplicação financeira já desenvolvida no GitHub, voltada para produto digital, experiência de usuário e sistemas aplicados ao mercado financeiro.
+Financial application developed on GitHub, focused on digital product, user experience, and systems applied to the financial market.
 
 </details>
 
@@ -161,14 +161,14 @@ Aplicação financeira já desenvolvida no GitHub, voltada para produto digital,
 
 <br>
 
-Tutor e avaliador cognitivo de revisão em tempo real, criado para impedir que o aluno confunda memorização com entendimento.
+Real-time cognitive review tutor and evaluator, built to prevent students from confusing memorization with understanding.
 
-**O que faz:**
+**What it does:**
 
-- Testa
-- Corrige
-- Exige clareza
-- Ajuda o aluno a revisar, explicar e apresentar conteúdos com precisão real
+- Tests
+- Corrects
+- Demands clarity
+- Helps students review, explain, and present content with real precision
 
 </details>
 
@@ -177,16 +177,16 @@ Tutor e avaliador cognitivo de revisão em tempo real, criado para impedir que o
 
 <br>
 
-Aplicativo cognitivo de matemática com backend em Python, motor de dificuldade proporcional e adaptação baseada em tempo e acerto.
+Cognitive math application with a Python backend, proportional difficulty engine, and adaptation based on time and accuracy.
 
-**Direção técnica:**
+**Technical direction:**
 
-- Backend 100% Python
-- Motor de dificuldade proporcional
-- Adaptação por tempo e acerto
-- Interface limpa
-- Mascote reativo
-- Preparado para API, banco de dados e mobile
+- 100% Python backend
+- Proportional difficulty engine
+- Time and accuracy-based adaptation
+- Clean interface
+- Reactive mascot
+- Ready for API, database, and mobile
 
 </details>
 
@@ -195,15 +195,15 @@ Aplicativo cognitivo de matemática com backend em Python, motor de dificuldade 
 
 <br>
 
-Sistema externo de execução pessoal projetado para cobrar planos definidos pelo próprio usuário, sem decidir por ele e sem aceitar desculpas.
+External personal execution system designed to hold users accountable to their own plans — without deciding for them or accepting excuses.
 
-**Direção técnica:**
+**Technical direction:**
 
-- Bot privado no Telegram
-- Agendamento de mensagens
-- Cobrança objetiva de tarefas
-- Registro de falhas
-- Relatórios diários de execução
+- Private Telegram bot
+- Message scheduling
+- Objective task accountability
+- Failure logging
+- Daily execution reports
 
 </details>
 
