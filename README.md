@@ -1,6 +1,10 @@
 # Mackson Victor
 
-> <img src="./assets/hand-tap.gif" width="22" /> Clique nas seções abaixo para expandir os detalhes.
+<p align="left">
+  <img src="./assets/Untitled%20file.gif" width="36" />
+</p>
+
+> Clique nas seções abaixo para expandir os detalhes.
 
 <details open>
 <summary><h2>➱ Sobre mim</h2></summary>
