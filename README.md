@@ -13,7 +13,7 @@ Minha trajetória une software, IA e robótica com um objetivo claro: construir 
 
 ---
 
-<details>
+<details open>
 <summary><h2>✎ Formação e evolução</h2></summary>
 
 <br>
