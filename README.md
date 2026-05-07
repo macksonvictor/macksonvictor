@@ -1,14 +1,22 @@
 # Mackson Victor
 
-## ➱ Sobre mim
+<details open>
+<summary><strong>➱ Sobre mim</strong></summary>
+
+<br>
 
 Estou documentando no GitHub minha evolução em Engenharia de IA por meio de projetos práticos em sistemas inteligentes, modelos de linguagem, robótica e engenharia aplicada.
 
 Minha trajetória une software, IA e robótica com um objetivo claro: construir sistemas capazes de perceber, raciocinar, lembrar e agir.
 
+</details>
+
 ---
 
-## ✎ Formação e evolução
+<details>
+<summary><strong>✎ Formação e evolução</strong></summary>
+
+<br>
 
 ### Ciência da Computação — USP
 
@@ -68,6 +76,8 @@ Minha trajetória une software, IA e robótica com um objetivo claro: construir 
 
 </details>
 
+</details>
+
 ---
 
 ## ⚒︎ Stack em construção
@@ -91,7 +101,10 @@ Minha trajetória une software, IA e robótica com um objetivo claro: construir 
 
 ---
 
-## ☑︎ Projetos principais
+<details>
+<summary><strong>☑︎ Projetos principais</strong></summary>
+
+<br>
 
 <details open>
 <summary><strong>CHEVEL AI</strong></summary>
@@ -187,5 +200,7 @@ Sistema externo de execução pessoal projetado para cobrar planos definidos pel
 - Cobrança objetiva de tarefas
 - Registro de falhas
 - Relatórios diários de execução
+
+</details>
 
 </details>
