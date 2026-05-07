@@ -79,7 +79,10 @@ Minha trajetória une software, IA e robótica com um objetivo claro: construir 
 
 ---
 
-## ⚒︎ Stack em construção
+<details>
+<summary><h2>⚒︎ Ferramentas e tecnologias</h2></summary>
+
+<br>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python" />
@@ -97,6 +100,8 @@ Minha trajetória une software, IA e robótica com um objetivo claro: construir 
   <img src="https://img.shields.io/badge/ROS%202-111111?style=flat-square" />
   <img src="https://img.shields.io/badge/LLMs-111111?style=flat-square" />
 </p>
+
+</details>
 
 ---
 
