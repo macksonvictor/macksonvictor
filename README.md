@@ -106,7 +106,7 @@ Minha trajetória une software, IA e robótica com um objetivo claro: construir 
 
 <br>
 
-<details open>
+<details>
 <summary><strong>CHEVEL AI</strong></summary>
 
 <br>
@@ -125,7 +125,7 @@ Sistema experimental de IA projetado para memória, voz, raciocínio, tomada de 
 
 </details>
 
-<details open>
+<details>
 <summary><strong>WIESEL-E</strong></summary>
 
 <br>
