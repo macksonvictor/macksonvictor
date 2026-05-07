@@ -134,7 +134,7 @@ Sistema experimental de IA projetado para memória, voz, raciocínio, tomada de 
 
 <br>
 
-Roadmap de robótica integrado à CHEVEL AI, focado em braços robóticos, controle inteligente, visão computacional e futura interação com sistemas físicos de IA.
+Sistema robótico integrado à CHEVEL AI, focado em estrutura braquial robótica, controle inteligente, visão computacional e interação futura com sistemas físicos de IA.
 
 **Direção técnica:**
 
