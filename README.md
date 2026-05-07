@@ -1,5 +1,11 @@
 # Mackson Victor
 
+<p align="left">
+  <img src="https://img.shields.io/badge/AI%20Engineering-in%20progress-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Robotics-WIESEL--E-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CHEVEL%20AI-Experimental%20System-111111?style=for-the-badge" />
+</p>
+
 ## ➱ Sobre mim
 
 Estou documentando no GitHub minha evolução em Engenharia de IA por meio de projetos práticos em sistemas inteligentes, modelos de linguagem, robótica e engenharia aplicada.
@@ -8,110 +14,111 @@ Minha trajetória une software, IA e robótica com um objetivo claro: construir 
 
 ---
 
-## ⚒︎ Áreas de estudo e construção
+## ✎ Formação e evolução
 
-- Python e fundamentos de engenharia de software
-- Machine Learning e análise de dados
-- Deep Learning com PyTorch
-- LLMs, RAG e agentes inteligentes
-- MLOps e infraestrutura de IA
-- Robótica e controle inteligente
-- Sistemas autônomos e físicos de IA
-
----
-
-## ✎ Roadmap técnico
+### Ciência da Computação — USP
 
 <details>
 <summary><strong>▸ Base técnica</strong></summary>
 
 <br>
 
-- Python for Everybody
-- Automate the Boring Stuff with Python
-- CS50x — Harvard
-- Git, GitHub e documentação técnica
-- Estruturas de dados, algoritmos e resolução de problemas
+- **Python for Everybody** — fundamentos de programação, lógica e Python
+- **CS50x — Harvard** — ciência da computação, algoritmos e pensamento computacional
+- **Fast.ai** — Deep Learning prático e construção de modelos reais
+- **Hugging Face Courses** — Transformers, NLP, LLMs e ecossistema de modelos abertos
+- **Andrew Ng ML/DL** — Machine Learning, Deep Learning e fundamentos matemáticos aplicados
+- **Git, GitHub e documentação técnica** — versionamento, organização e construção pública
+- **Estruturas de dados e algoritmos** — resolução de problemas e base para engenharia
 
 </details>
 
 <details>
-<summary><strong>▸ Machine Learning</strong></summary>
+<summary><strong>▸ Livros e referências</strong></summary>
 
 <br>
 
-- NumPy, Pandas e Matplotlib
-- Scikit-learn
-- Estatística aplicada
-- Feature engineering
-- Modelos supervisionados e não supervisionados
-- Projetos com pipelines reproduzíveis
+- **Automate the Boring Stuff with Python** — automação prática e scripts úteis
+- **Fluent Python** — Python avançado e escrita de código profissional
+- **Hands-On Machine Learning** — Machine Learning aplicado com projetos reais
+- **Designing Data-Intensive Applications** — sistemas distribuídos, dados e arquitetura de software
 
 </details>
 
 <details>
-<summary><strong>▸ Deep Learning</strong></summary>
+<summary><strong>▸ Próximas camadas</strong></summary>
 
 <br>
 
-- PyTorch
-- Redes neurais profundas
-- CNNs e visão computacional
-- Transformers
-- Treinamento, avaliação e deploy de modelos
-- Experimentos com Weights & Biases
+- Machine Learning com NumPy, Pandas, Matplotlib e Scikit-learn
+- Deep Learning com PyTorch
+- Visão Computacional
+- LLMs, RAG e agentes inteligentes
+- MLOps, Docker, APIs e deploy em produção
+- ROS 2, controle robótico e sistemas físicos de IA
 
 </details>
 
 <details>
-<summary><strong>▸ LLMs e agentes inteligentes</strong></summary>
+<summary><strong>▸ Certificações</strong></summary>
 
 <br>
 
-- Hugging Face Transformers
-- RAG e busca semântica
-- Fine-tuning com LoRA / QLoRA
-- Agentes com memória e ferramentas
-- Modelos de linguagem aplicados ao português
-- Sistemas capazes de planejar e executar tarefas
-
-</details>
-
-<details>
-<summary><strong>▸ MLOps e produção</strong></summary>
-
-<br>
-
-- FastAPI
-- Docker
-- PostgreSQL e Redis
-- GitHub Actions
-- Monitoramento e métricas
-- Deploy de modelos em produção
-- APIs para sistemas de IA
-
-</details>
-
-<details>
-<summary><strong>▸ Robótica e sistemas físicos de IA</strong></summary>
-
-<br>
-
-- Controle robótico
-- Arduino, Raspberry Pi e sensores
-- Cinemática e atuadores
-- Visão computacional aplicada
-- ROS 2
-- Integração entre IA, percepção e ação física
+- Em organização
 
 </details>
 
 ---
 
+## ⚒︎ Stack em construção
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/PyTorch-111111?style=flat-square&logo=pytorch" />
+  <img src="https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi" />
+  <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker" />
+  <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-111111?style=flat-square" />
+  <img src="https://img.shields.io/badge/ROS%202-111111?style=flat-square" />
+  <img src="https://img.shields.io/badge/LLMs-111111?style=flat-square" />
+</p>
+
+---
+
 ## ☑︎ Projetos principais
 
-**CHEVEL AI**  
+<details open>
+<summary><strong>CHEVEL AI</strong></summary>
+
+<br>
+
 Sistema experimental de IA projetado para memória, voz, raciocínio, tomada de decisão e execução de ações.
 
-**WIESEL-E**  
+**Direção técnica:**
+
+- Memória persistente
+- Modelos de linguagem locais
+- Interface de voz
+- Processamento de intenções
+- Execução de ações
+- Integração com sistemas digitais e físicos
+
+</details>
+
+<details open>
+<summary><strong>WIESEL-E</strong></summary>
+
+<br>
+
 Roadmap de robótica integrado à CHEVEL AI, focado em braços robóticos, controle inteligente, visão computacional e futura interação com sistemas físicos de IA.
+
+**Direção técnica:**
+
+- Braços robóticos
+- Controle inteligente
+- Visão computacional
+- Sensores e atuadores
+- ROS 2
+- Integração entre IA, percepção e ação física
+
+</details>
